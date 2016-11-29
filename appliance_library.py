@@ -361,147 +361,147 @@ class PRODUCT_Thermador_PRL486JDG(appliance_classes.Static_Wall_Appliance):
                                                            
 #---------PRODUCT: WALL OVENS            
         
-class PRODUCT_Thermador_ME301JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_ME301JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador ME301JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador ME301JP.blend")
                                                            
-class PRODUCT_Thermador_ME301JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_ME301JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador ME301JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador ME301JS.blend")
                                                            
-class PRODUCT_Thermador_ME302JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_ME302JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador ME302JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador ME302JP.blend")
                                                            
-class PRODUCT_Thermador_ME302JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_ME302JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador ME302JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador ME302JS.blend")
                                                            
-class PRODUCT_Thermador_MED271JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED271JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED271JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED271JS.blend")
                                                            
-class PRODUCT_Thermador_MED272JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED272JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED272JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED272JS.blend")
                                                            
-class PRODUCT_Thermador_MED301JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED301JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED301JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED301JP.blend")
                                                            
-class PRODUCT_Thermador_MED301JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED301JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED301JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED301JS.blend")
                                                            
-class PRODUCT_Thermador_MED302JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED302JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED302JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED302JP.blend")
                                                            
-class PRODUCT_Thermador_MED302JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MED302JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MED302JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MED302JS.blend")
                                                            
-class PRODUCT_Thermador_MEDMC301JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MEDMC301JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MEDMC301JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MEDMC301JP.blend")
                                                            
-class PRODUCT_Thermador_MEDMC301JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MEDMC301JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MEDMC301JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MEDMC301JS.blend")
                                     
-class PRODUCT_Thermador_MEDMCW31JP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MEDMCW31JP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MEDMCW31JP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MEDMCW31JP.blend")
                                     
-class PRODUCT_Thermador_MEDMCW31JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MEDMCW31JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MEDMCW31JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MEDMCW31JS.blend")
                                     
-class PRODUCT_Thermador_MEDMCW71JS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MEDMCW71JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MEDMCW71JS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MEDMCW71JS.blend")
                                     
-class PRODUCT_Thermador_MES301HP(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MES301HP(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MES301HP"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MES301HP.blend")
                                     
-class PRODUCT_Thermador_MES301HS(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_MES301HS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador MES301HS"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador MES301HS.blend")
                                     
-class PRODUCT_Thermador_POD301J(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_POD301J(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador POD301J"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador POD301J.blend")
                                     
-class PRODUCT_Thermador_PODC302J(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_PODC302J(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador PODC302J"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador PODC302J.blend")
                                     
-class PRODUCT_Thermador_PODM301J(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_PODM301J(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
         self.assembly_name = "Thermador PODM301J"
         self.appliance_path = os.path.join(WALL_OVEN_PATH,"Thermador PODM301J.blend")
                                     
-class PRODUCT_Thermador_PODMW301J(appliance_classes.Static_Wall_Appliance):
+class PRODUCT_Thermador_PODMW301J(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Wall Ovens"
@@ -511,21 +511,21 @@ class PRODUCT_Thermador_PODMW301J(appliance_classes.Static_Wall_Appliance):
 
 #---------PRODUCT: MICROWAVES 
 
-class PRODUCT_Thermador_MBES(appliance_classes.Object_Appliance):
+class PRODUCT_Thermador_MBES(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Microwaves"
         self.assembly_name = "Thermador MBES"
         self.appliance_path = os.path.join(MICROWAVE_PATH,"Thermador MBES.blend")
                                     
-class PRODUCT_Thermador_MCES(appliance_classes.Object_Appliance):
+class PRODUCT_Thermador_MCES(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Microwaves"
         self.assembly_name = "Thermador MCES"
         self.appliance_path = os.path.join(MICROWAVE_PATH,"Thermador MCES.blend")
                                     
-class PRODUCT_Thermador_MD24JS(appliance_classes.Object_Appliance):
+class PRODUCT_Thermador_MD24JS(appliance_classes.Built_In_Appliance):
     
     def __init__(self):
         self.category_name = "Microwaves"
