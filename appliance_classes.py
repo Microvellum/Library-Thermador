@@ -163,7 +163,7 @@ class Built_In_Appliance(fd_types.Assembly):
     
     """ Path to blend file that contains a group of the appliance """
     appliance_path = ""
-#     drop_id = appliance_properties.LIBRARY_NAME_SPACE + ".place_countertop_appliance"
+    drop_id = appliance_properties.LIBRARY_NAME_SPACE + ".place_built_in_appliance"
 
     def draw(self):
         self.create_assembly()
