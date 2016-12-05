@@ -882,20 +882,6 @@ class PRODUCT_Thermador_T24IF800SP(appliance_classes.Static_Wall_Appliance):
 
 #---------PRODUCT: DISHWASHERS
 
-class PRODUCT_Thermador_DWHD410JFM(appliance_classes.Static_Wall_Appliance):
-    
-    def __init__(self):
-        self.category_name = "Dishwashers"
-        self.assembly_name = "Thermador DWHD410JFM"
-        self.appliance_path = os.path.join(DISH_WASHER_PATH,"Thermador DWHD410JFM.blend")
-
-class PRODUCT_Thermador_DWHD410JFP(appliance_classes.Static_Wall_Appliance):
-    
-    def __init__(self):
-        self.category_name = "Dishwashers"
-        self.assembly_name = "Thermador DWHD410JFP"
-        self.appliance_path = os.path.join(DISH_WASHER_PATH,"Thermador DWHD410JFP.blend")
-
 class PRODUCT_Thermador_DWHD640JFM(appliance_classes.Static_Wall_Appliance):
     
     def __init__(self):
