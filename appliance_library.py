@@ -623,13 +623,6 @@ class PRODUCT_Thermador_HMWN48FS(appliance_classes.Static_Wall_Appliance):
         self.appliance_path = os.path.join(RANGE_HOOD_PATH,"Thermador HMWN48FS.blend")
         self.height_above_floor = HEIGHT_ABOVE_FLOOR
                              
-class PRODUCT_Thermador_HPIB42HS(appliance_classes.Static_Wall_Appliance):
-    
-    def __init__(self):
-        self.category_name = "Range Hoods"
-        self.assembly_name = "Thermador HPIB42HS"
-        self.appliance_path = os.path.join(RANGE_HOOD_PATH,"Thermador HPIB42HS.blend")
-        self.height_above_floor = HEIGHT_ABOVE_FLOOR
                              
 class PRODUCT_Thermador_HPIB48HS(appliance_classes.Static_Wall_Appliance):
     
@@ -647,13 +640,6 @@ class PRODUCT_Thermador_HPIN42HS(appliance_classes.Static_Wall_Appliance):
         self.appliance_path = os.path.join(RANGE_HOOD_PATH,"Thermador HPIN42HS.blend")
         self.height_above_floor = HEIGHT_ABOVE_FLOOR
                              
-class PRODUCT_Thermador_HPIN48HS(appliance_classes.Static_Wall_Appliance):
-    
-    def __init__(self):
-        self.category_name = "Range Hoods"
-        self.assembly_name = "Thermador HPIN48HS"
-        self.appliance_path = os.path.join(RANGE_HOOD_PATH,"Thermador HPIN48HS.blend")
-        self.height_above_floor = HEIGHT_ABOVE_FLOOR
                              
 class PRODUCT_Thermador_HPWB30FS(appliance_classes.Static_Wall_Appliance):
     
